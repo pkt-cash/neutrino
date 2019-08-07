@@ -76,6 +76,8 @@ github.com/onsi/gomega v1.4.1/go.mod h1:C1qb7wdrVGGVU+Z6iS04AVkA3Q65CEZX59MT0QO5
 github.com/onsi/gomega v1.4.3/go.mod h1:ex+gbHU/CVuBBDIJjb2X0qEXbFg53c61hWP/1CpauHY=
 github.com/pkt-cash/btcutil v0.0.0-20190806103914-865c5b327429 h1:3+td0vhSC0ucmAa6/MMGe9anpdNVGEgOSAb/YIDwUNc=
 github.com/pkt-cash/btcutil v0.0.0-20190806103914-865c5b327429/go.mod h1:aA8EuA9SKllEf3/9kM6BaKEiFDFx3OtPd5kBiPtN9UM=
+github.com/pkt-cash/libpktwallet v0.0.0-20190807123207-635f70f73f41 h1:gS5FPBINrqhVBqUuDBux7DY0z8em1pUg9eETIHKkyPM=
+github.com/pkt-cash/libpktwallet v0.0.0-20190807123207-635f70f73f41/go.mod h1:EKWNqoCOmABq67iwXV4rs9MWXl8Q3Qq7zv3eY2Oj2u8=
 github.com/pkt-cash/pktd v0.0.0-20190806120019-8e3b08404712 h1:hC7f+myJfJkFQn7KmlMyw9rHAiQ0uM3BVBtRGs6kDtE=
 github.com/pkt-cash/pktd v0.0.0-20190806120019-8e3b08404712/go.mod h1:86f3rclCbb+82672nKnYS7fDwtbwSJ/nBJQ7cZIlo9g=
 go.etcd.io/bbolt v1.3.0/go.mod h1:IbVyRI1SCnLcuJnV2u8VeU0CEYM7e686BmAb1XKL+uU=
