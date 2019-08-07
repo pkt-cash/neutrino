@@ -2631,6 +2631,12 @@ func (b *blockManager) handleHeadersMsg(hmsg *headersMsg) {
 	b.newHeadersSignal.Broadcast()
 }
 
+func (b *blockManager) checkHeaderSanity(blockHeader *wire.BlockHeader,
+	maxTimestamp time.Time, reorgAttempt bool) error {
+	panic("checkheadersanity is unimplemented for pkt chain")
+}
+
+/*
 // checkHeaderSanity checks the PoW, and timestamp of a block header.
 func (b *blockManager) checkHeaderSanity(blockHeader *wire.BlockHeader,
 	maxTimestamp time.Time, reorgAttempt bool) error {
@@ -2654,6 +2660,7 @@ func (b *blockManager) checkHeaderSanity(blockHeader *wire.BlockHeader,
 	}
 	return nil
 }
+*/
 
 // calcNextRequiredDifficulty calculates the required difficulty for the block
 // after the passed previous block node based on the difficulty retarget rules.
