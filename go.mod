@@ -7,6 +7,6 @@ require (
 	github.com/davecgh/go-spew v1.1.1
 	github.com/lightningnetwork/lnd/queue v1.0.1
 	github.com/pkt-cash/btcutil v0.0.0-20190806103914-865c5b327429
-	github.com/pkt-cash/libpktwallet v0.0.0-20190807123207-635f70f73f41
-	github.com/pkt-cash/pktd v0.0.0-20190806120019-8e3b08404712
+	github.com/pkt-cash/libpktwallet v0.0.0-20190815155619-501df448ed8a
+	github.com/pkt-cash/pktd v0.0.0-20190815154141-b2bbf597e506
 )
